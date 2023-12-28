@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\bin\Debug\EXE_CSharp_01.exe.config
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\bin\Debug\EXE_CSharp_01.exe
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\bin\Debug\EXE_CSharp_01.pdb
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\obj\Debug\EXE_CSharp_01.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\obj\Debug\EXE_CSharp_01.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\obj\Debug\EXE_CSharp_01.exe
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\obj\Debug\EXE_CSharp_01.pdb
+D:\TodosProjetos\PrimeiroCSharp\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\bin\Debug\EXE_CSharp_01.exe.config
+D:\TodosProjetos\PrimeiroCSharp\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\bin\Debug\EXE_CSharp_01.exe
+D:\TodosProjetos\PrimeiroCSharp\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\bin\Debug\EXE_CSharp_01.pdb
+D:\TodosProjetos\PrimeiroCSharp\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\obj\Debug\EXE_CSharp_01.csproj.AssemblyReference.cache
+D:\TodosProjetos\PrimeiroCSharp\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\obj\Debug\EXE_CSharp_01.csproj.SuggestedBindingRedirects.cache
+D:\TodosProjetos\PrimeiroCSharp\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\obj\Debug\EXE_CSharp_01.csproj.CoreCompileInputs.cache
+D:\TodosProjetos\PrimeiroCSharp\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\obj\Debug\EXE_CSharp_01.exe
+D:\TodosProjetos\PrimeiroCSharp\EXE CSharp\EXE_CSharp_01\EXE_CSharp_01\obj\Debug\EXE_CSharp_01.pdb

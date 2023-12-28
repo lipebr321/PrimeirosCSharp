@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_04\EXE_CSharp_04\bin\Debug\EXE_CSharp_04.exe.config
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_04\EXE_CSharp_04\bin\Debug\EXE_CSharp_04.exe
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_04\EXE_CSharp_04\bin\Debug\EXE_CSharp_04.pdb
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_04\EXE_CSharp_04\obj\Debug\EXE_CSharp_04.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_04\EXE_CSharp_04\obj\Debug\EXE_CSharp_04.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_04\EXE_CSharp_04\obj\Debug\EXE_CSharp_04.exe
+C:\Users\aluno\Desktop\EXE CSharp\EXE_CSharp_04\EXE_CSharp_04\obj\Debug\EXE_CSharp_04.pdb
